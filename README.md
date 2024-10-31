@@ -20,7 +20,7 @@
 
 ** Quer bater um papo?** 
 
-Entre em contato comigo através do https://www.linkedin.com/in/igor-ferreira-a97393330/, ou contatoigorferreira@gmail.com. Teremos o prazer de conversar sobre seus projetos e como podemos trabalhar juntos!
+Entre em contato comigo através do https://www.linkedin.com/in/igor-ferreira-a97393330/ ou contatoigorferreira@gmail.com. Teremos o prazer de conversar sobre seus projetos e como podemos trabalhar juntos!
 
 **Construindo o futuro, um commit de cada vez!** 
 
