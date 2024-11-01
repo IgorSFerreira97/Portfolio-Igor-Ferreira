@@ -13,10 +13,9 @@
 **️ Tecnologias que me movem:** 
 
 * **Front-end:** HTML5, CSS3, JavaScript, React, GIT, Wordpress e SASS.
-* **Back-end:** Node.js, Python e Django.
-* **Banco de dados:** PostgreSQL, MongoDB, MySQL
-* **Cloud:** AWS, GCP, Azure
-* **Outras:** Git, Docker, Kubernetes
+* **Back-end:** Node.js, Python.
+* **Banco de dados:** MySQL
+* **Outras:** Git.
 
 ** Quer bater um papo?** 
 
